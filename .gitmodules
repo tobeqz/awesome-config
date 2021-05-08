@@ -1,0 +1,9 @@
+[submodule "spotify_manage"]
+	path = spotify_manage
+	url = https://github.com/tobeqz/spotify_manage
+[submodule "get_cpu_usage"]
+	path = get_cpu_usage
+	url = https://github.com/tobeqz/get_cpu_usage
+[submodule "get_mem_usage"]
+	path = get_mem_usage
+	url = https://github.com/tobeqz/get_mem_usage
