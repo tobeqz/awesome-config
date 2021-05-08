@@ -12,10 +12,17 @@ picom --fading --fade-delta 5 --corner-radius 5 --vsync --refresh-rate 144 --bac
 
 glava &
 
-SPOTIFY_USER=$(cat ./spotify_user)
-SPOTIFY_PASSWD=$(cat ./spotify_passwd)
-
-spotifyd --backend pulseaudio --device-name spotifyd --autoplay --zeroconf-port 4999 --use-mpris true -u "$SPOTIFY_PASSWD" -p "$SPOTIFY_PASSWD" --initial-volume 70 --no-daemon &
+spotifyd --backend pulseaudio \
+    --device-name spotifyd \
+    --autoplay \
+    --zeroconf-port 4999 \
+    --use-mpris true \
+    -U "cat ~/.config/awesome/spotify_user" \
+    -P "cat ~/.config/awesome/spotify_passwd" \
+    --initial-volume 70 \
+    --no-daemon &
 
 crd --start &
 feh --bg-scale ~/Pictures/wallpapers/purple_sunset_river.jpg &
+
+sleep 2

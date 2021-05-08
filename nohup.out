@@ -1,0 +1,274 @@
+X Error of failed request:  BadAccess (attempt to access private resource denied)
+  Major opcode of failed request:  131 (XInputExtension)
+  Minor opcode of failed request:  57 ()
+  Serial number of failed request:  20
+  Current serial number in output stream:  21
+Agent pid 3177
+Loading config from "/home/main/.config/spotifyd/spotifyd.conf"
+No username specified. Checking username_cmd
+Running "cat ~/.config/awesome/spotify_user" using "/usr/bin/zsh"
+[ 05/08/2021 13:18:54.690 session_init FATAL ERROR ] Another composite manager is already running
+No password specified. Checking password_cmd
+Running "cat ~/.config/awesome/spotify_passwd" using "/usr/bin/zsh"
+No proxy specified
+Using software volume controller.
+Connecting to AP "gew1-accesspoint-e-fvd7.ap.spotify.com:443"
+
+** (process:3203): ERROR **: 13:18:54.788: Got unexpected EOF while reading from controlling terminal.
+Caught panic with message: Authentication failed with reason: BadCredentials
+polkit-agent-helper-1: pam_authenticate failed: Permission denied
+X Error of failed request:  BadAccess (attempt to access private resource denied)
+  Major opcode of failed request:  131 (XInputExtension)
+  Minor opcode of failed request:  57 ()
+  Serial number of failed request:  20
+  Current serial number in output stream:  21
+Agent pid 3581
+Loading config from "/home/main/.config/spotifyd/spotifyd.conf"
+No username specified. Checking username_cmd
+Running "cat ~/.config/awesome/spotify_user" using "/usr/bin/zsh"
+[ 05/08/2021 13:19:38.585 session_init FATAL ERROR ] Another composite manager is already running
+No password specified. Checking password_cmd
+Running "cat ~/.config/awesome/spotify_passwd" using "/usr/bin/zsh"
+No proxy specified
+Using software volume controller.
+Connecting to AP "gew1-accesspoint-e-k6dg.ap.spotify.com:443"
+Caught panic with message: Authentication failed with reason: BadCredentials
+polkit-agent-helper-1: error response to PolicyKit daemon: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: No session for cookie
+Error executing command as another user: Not authorized
+
+This incident has been reported.
+X connection to :0 broken (explicit kill or server shutdown).
+FPS: 59.69, UPS: 59.69
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 59.99, UPS: 59.99
+FPS: 59.95, UPS: 59.95
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.92, UPS: 59.92
+FPS: 60.02, UPS: 60.02
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.08, UPS: 60.08
+FPS: 59.91, UPS: 59.91
+FPS: 60.07, UPS: 60.07
+FPS: 59.95, UPS: 59.95
+FPS: 59.98, UPS: 59.98
+FPS: 60.02, UPS: 60.02
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.94, UPS: 59.94
+FPS: 60.00, UPS: 60.00
+FPS: 59.99, UPS: 59.99
+FPS: 60.02, UPS: 60.02
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 59.99, UPS: 59.99
+FPS: 60.02, UPS: 60.02
+FPS: 60.01, UPS: 60.01
+FPS: 59.73, UPS: 59.73
+FPS: 55.33, UPS: 55.33
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.75, UPS: 59.75
+FPS: 60.25, UPS: 60.25
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.01, UPS: 60.01
+FPS: 59.93, UPS: 59.93
+FPS: 60.05, UPS: 60.05
+FPS: 59.95, UPS: 59.95
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.08, UPS: 60.08
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 59.98, UPS: 59.98
+FPS: 60.09, UPS: 60.09
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.91, UPS: 59.91
+FPS: 60.09, UPS: 60.09
+FPS: 59.93, UPS: 59.93
+FPS: 59.85, UPS: 59.85
+FPS: 60.23, UPS: 60.23
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 59.91, UPS: 59.91
+FPS: 60.16, UPS: 60.16
+FPS: 60.00, UPS: 60.00
+FPS: 52.78, UPS: 52.78
+FPS: 50.98, UPS: 50.98
+FPS: 56.30, UPS: 56.30
+FPS: 59.95, UPS: 59.95
+FPS: 58.00, UPS: 58.00
+FPS: 60.08, UPS: 60.08
+FPS: 59.84, UPS: 59.84
+FPS: 60.17, UPS: 60.17
+FPS: 59.87, UPS: 59.87
+FPS: 60.13, UPS: 60.13
+FPS: 59.98, UPS: 59.98
+FPS: 60.02, UPS: 60.02
+FPS: 59.94, UPS: 59.94
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 60.01, UPS: 60.01
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 53.99, UPS: 53.99
+FPS: 59.95, UPS: 59.95
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.01, UPS: 60.01
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.00, UPS: 60.00
+FPS: 60.08, UPS: 60.08
+FPS: 60.00, UPS: 60.00
+FPS: 60.01, UPS: 60.01
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.94, UPS: 59.94
+X connection to :0 broken (explicit kill or server shutdown).
+FPS: 59.96, UPS: 58.96
+FPS: 60.08, UPS: 60.08
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.91, UPS: 59.91
+FPS: 60.09, UPS: 60.09
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.99, UPS: 59.99
+FPS: 59.95, UPS: 59.95
+FPS: 59.99, UPS: 59.99
+FPS: 60.09, UPS: 60.09
+FPS: 59.91, UPS: 59.91
+FPS: 60.08, UPS: 60.08
+FPS: 60.02, UPS: 60.02
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.01, UPS: 60.01
+FPS: 59.91, UPS: 59.91
+FPS: 60.09, UPS: 60.09
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.00, UPS: 60.00
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.00, UPS: 60.00
+FPS: 60.01, UPS: 60.01
+FPS: 60.00, UPS: 60.00
+FPS: 59.99, UPS: 59.99
+FPS: 60.02, UPS: 60.02
+FPS: 54.98, UPS: 54.98
+FPS: 56.99, UPS: 56.99
+FPS: 50.13, UPS: 50.13
+FPS: 56.13, UPS: 56.13
+FPS: 60.00, UPS: 60.00
+FPS: 57.83, UPS: 57.83
+FPS: 60.20, UPS: 60.20
+FPS: 59.95, UPS: 59.95
+FPS: 60.07, UPS: 60.07
+FPS: 59.98, UPS: 59.98
+FPS: 60.03, UPS: 60.03
+FPS: 60.00, UPS: 60.00
+FPS: 59.98, UPS: 59.98
+FPS: 59.99, UPS: 59.99
+FPS: 60.03, UPS: 60.03
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 53.93, UPS: 53.93
+FPS: 60.09, UPS: 60.09
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 60.01, UPS: 60.01
+FPS: 59.98, UPS: 59.98
+FPS: 59.95, UPS: 59.95
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 59.93, UPS: 59.93
+FPS: 60.07, UPS: 60.07
+FPS: 60.00, UPS: 60.00
