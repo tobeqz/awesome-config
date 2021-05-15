@@ -42,7 +42,7 @@ beautiful.init("~/.config/awesome/theme.lua")
 
 
 -- Config constants
-local terminal = "kitty"
+local terminal = "alacritty"
 local modkey = "Mod1"
 
 local layouts = {

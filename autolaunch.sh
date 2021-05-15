@@ -8,7 +8,7 @@ sleep 2
 
 eval `ssh-agent` &
 
-picom --fading --fade-delta 5 --corner-radius 5 --vsync --refresh-rate 144 --backend glx -b &
+picom --corner-radius 7 --refresh-rate 144 --no-vsync -c --backend glx -l 0 -t 0 -r 8 -o 0.3
 
 glava &
 
@@ -23,6 +23,6 @@ spotifyd --backend pulseaudio \
     --no-daemon &
 
 crd --start &
-feh --bg-scale ~/Pictures/wallpapers/purple_sunset_river.jpg &
+feh --bg-scale ~/.config/awesome/images/solid_lighter.png &
 
 sleep 2
